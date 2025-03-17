@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Rohan Patil (@rohanpatil18-eng)
   
 ## 👀 Interests  
-- Full-stack web development  
-- Cloud computing  
-- Computer networks  
-- AI and cybersecurity  
+- Full-stack Web Development  
+- Cloud Computing  
+- Computer Networks  
+- AI and Cybersecurity  
 
 ## 🌱 Currently Learning  
 - Java, Spring Boot & Hibernate  
